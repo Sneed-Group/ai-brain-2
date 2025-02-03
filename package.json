@@ -1,0 +1,22 @@
+{
+  "name": "ai-brain-2",
+  "version": "1.0.0",
+  "description": "A HLE simulation of human consciousness using Ollama and JavaScript.",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "ollama": "^0.5.12"
+  },
+  "keywords": [
+    "consciousness",
+    "human-AI interaction",
+    "simulator",
+    "JavaScript"
+  ],
+  "author": {
+    "name": "Sammy Lord",
+    "email": "glados@sllord.info"
+  }
+}
