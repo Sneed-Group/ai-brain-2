@@ -1,4 +1,4 @@
-# AI Brain 2
+# AI Brain 2 <img src="brain-ascii-art.png" align="right" width="15%"></image>
 
 Codenamed "Project GLaDOS 2" - this is a library for a near-perfect high-level recreation of the human brain - powered by Ollama and Javascript.
 
