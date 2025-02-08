@@ -7,4 +7,4 @@ Now an actual high-level inerpteration of a brain and not some B-tier "oh i am a
 This is what I like to call "Brain HLE" or "Brain High-Level Emulation." It's like the HLE technique to create game emulators - but for the mind.
 
 
-This will start off as a simple library for building basic AGI apps - but then expand out to other fields.
+This started off as a simple library for building basic brain HLE apps - but then expanded out to a brain simulation, similar to "AI Brain 1" or just "AI Brain" but just the essentials and more accurate brain HLE techniques (see above).
